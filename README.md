@@ -3,4 +3,6 @@ The solutions to the Euler competition problems from HackerRank.
 
 This repository contains solutions to the Project Euler coding competetion (those which I have solved till now)
 
+The solutions are in C++, Java, Python.
+
 Visit challenge here. https://www.hackerrank.com/contests/projecteuler/challenges
