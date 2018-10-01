@@ -1,5 +1,5 @@
 # HackerRank EulerSolutions
-The solutions to the Euler competition problems from HackerRank.
+The solutions to the ProjectEuler+ competition problems from HackerRank.
 
 ![hackerrank](https://user-images.githubusercontent.com/41565823/46145009-fcdf3100-c25e-11e8-9518-d0dbd3294e30.png)
 
