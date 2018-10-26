@@ -20,4 +20,4 @@ Find me @MathStackExchange : pradyuman-dixit | https://math.stackexchange.com/us
 
 If you can't find the solution of the problem you want, keep checking out, I'll be updating this regularly as I solve.
 
-Current Rank: 985/88450
+Current Rank: 931/88450
