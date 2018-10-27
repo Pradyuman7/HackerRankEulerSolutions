@@ -5,7 +5,7 @@ The solutions to the ProjectEuler+ competition problems from HackerRank.
 
 This repository contains solutions to the Project Euler coding competition (those which I have solved till now)
 
-The solutions are in C++, Java and Python.
+The solutions are in C++, Java and Python (Though most are in C++ and Java, Some are in Python, due to me practicing Python with these problems).
 
 Visit the challenge here, https://www.hackerrank.com/contests/projecteuler/challenges
 
