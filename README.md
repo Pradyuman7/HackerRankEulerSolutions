@@ -12,9 +12,9 @@ The solutions are in C++, Java and Python (Though most are in C++ and Java, Some
 
 >Find me @HackerRank    : [pradyuman-dixit](https://www.hackerrank.com/pradyumandixit)
 
->Find me @LinkedIn      : pradyuman-dixit | https://www.linkedin.com/in/pradyuman-dixit/
+>Find me @LinkedIn      : [Pradyuman-Dixit](https://www.linkedin.com/in/pradyuman-dixit/)
 
->Find me @StackOverflow : pradyuman-dixit | https://stackoverflow.com/users/8850875/pradyuman-dixit
+>Find me @StackOverflow : [PradyumanDixit](https://stackoverflow.com/users/8850875/pradyuman-dixit)
 
 >Find me @MathStackExchange : pradyuman-dixit | https://math.stackexchange.com/users/597428/pradyuman-dixit
 
