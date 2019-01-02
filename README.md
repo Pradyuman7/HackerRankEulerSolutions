@@ -14,9 +14,5 @@ The solutions are in C++, Java and Python (Though most are in C++ and Java, Some
 
 >Find me @LinkedIn      : [Pradyuman-Dixit](https://www.linkedin.com/in/pradyuman-dixit/)
 
->Find me @StackOverflow : [PradyumanDixit](https://stackoverflow.com/users/8850875/pradyuman-dixit)
-
->Find me @MathStackExchange : [PradyumanDixit](https://math.stackexchange.com/users/597428/pradyuman-dixit)
-
 If you can't find the solution of the problem you want, keep checking out, I'll be updating this regularly as I solve.
 
