@@ -1,4 +1,6 @@
 # HackerRank ProjectEuler+ Solutions
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 My solutions to the ProjectEuler+ competition problems from HackerRank.
 
 ![hackerrank](https://user-images.githubusercontent.com/41565823/46145009-fcdf3100-c25e-11e8-9518-d0dbd3294e30.png)
