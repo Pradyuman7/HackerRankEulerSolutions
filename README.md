@@ -1,5 +1,5 @@
 # HackerRank ProjectEuler+ Solutions
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-seagreen.svg)](https://opensource.org/licenses/MIT)
 
 My solutions to the ProjectEuler+ competition problems from HackerRank.
 
@@ -9,7 +9,7 @@ This repository contains solutions to the Project Euler coding competition (thos
 
 The solutions are in C++, Java and Python (Though most are in Java and C++, Some are in Python, due to me practicing Python with these problems).
 
-[Visit the Running challenge here](https://www.hackerrank.com/contests/projecteuler/challenges)
+[Visit the Running challenge here.](https://www.hackerrank.com/contests/projecteuler/challenges)
 
 
 >Find me @HackerRank    : [pradyuman-dixit](https://www.hackerrank.com/pradyumandixit)
@@ -17,4 +17,3 @@ The solutions are in C++, Java and Python (Though most are in Java and C++, Some
 >Find me @LinkedIn      : [Pradyuman-Dixit](https://www.linkedin.com/in/pradyuman-dixit/)
 
 If you can't find the solution of the problem you want, keep checking out, I'll be updating this regularly as I solve.
-
